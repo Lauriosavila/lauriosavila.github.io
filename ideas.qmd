@@ -1,0 +1,22 @@
+---
+title: "A bunch of ideas"
+subtitle: "que siguen en el horno"
+---
+
+# Titulo Mayor
+
+aca escribo algo
+que esta en la misma linea
+no necesito que este e n la misma linea
+
+*Aca* es italica
+
+**Aca** es negrilla
+
+***Aca*** es negrilla Italica
+
+## Titulo 
+
+###  sasd
+ 
+#### asd
